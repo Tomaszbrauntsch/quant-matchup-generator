@@ -2,7 +2,7 @@
 ## Description
 With the power of random number generation in quantum computing, we can use it to create tournament matchup generator
 ## Setting up
-1. Download and upload the jupyter notebook into IBM Quantum Experience
+Download and upload the jupyter notebook into IBM Quantum Experience
 ## How to use
 1. Run the first block of the notebook to load up the libraries and the following inputs:
   * The amount of players that are going to needed to be generated (e.g 1v1 {2} or 1v1v1{3}, etc...)
