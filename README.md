@@ -1,6 +1,6 @@
 # Quantum Matchup Generator
 ## Description
-With the power of random number generation in quantum computing, we can use it to create tournament matchup generator
+With the power of random number generation in quantum computing, we can use it to create a tournament matchup generator
 ## Setting up
 Download and upload the jupyter notebook into IBM Quantum Experience
 ## How to use
